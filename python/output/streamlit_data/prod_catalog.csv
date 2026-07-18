@@ -1,0 +1,21 @@
+product_id,product_name,department,total_orders,product_reorder_rate,avg_add_to_cart_position
+24852,Banana,produce,472565,0.8435,4.894128849999471
+27845,Organic Whole Milk,dairy eggs,137905,0.8304,5.434748558790472
+44632,Sparkling Water Grapefruit,beverages,75886,0.7711,6.222702474764779
+30489,Original Hummus,deli,71314,0.7248,8.41327088650195
+5077,100% Whole Wheat Bread,bakery,60816,0.7372,7.045218363588529
+9076,Blueberries,frozen,55946,0.5826,8.316930611661245
+25890,Boneless Skinless Chicken Breasts,meat seafood,50281,0.662,7.513911815596349
+31506,Extra Virgin Olive Oil,pantry,50255,0.4766,9.010148243955825
+27156,Organic Black Beans,canned goods,38001,0.5882,10.030946554038051
+8021,100% Recycled Paper Towels,household,27864,0.5912,8.822853861613552
+41844,Honey Nut Cheerios,breakfast,26741,0.5737,9.807299652219438
+13870,Lightly Salted Baked Snap Pea Crisps,snacks,24950,0.6278,9.527134268537074
+23375,Marinara Sauce,dry goods pasta,19998,0.6261,9.598609860986098
+36724,Organic Sea Salt Roasted Seaweed Snacks,international,10345,0.6361,9.658965683905269
+5161,Dried Mango,bulk,10150,0.7471,6.817241379310345
+43875,Baby Food Stage 2 Blueberry Pear & Purple Carrot,babies,8793,0.6465,10.228704651427272
+41149,Organic Riced Cauliflower,missing,8366,0.481,8.658498685154196
+2120,Sauvignon Blanc,alcohol,8246,0.6812,5.576764491874848
+12312,Lavender Hand Soap,personal care,5941,0.3338,10.063289008584414
+38662,Roasted Almond Butter,other,3976,0.6813,7.548541247484909

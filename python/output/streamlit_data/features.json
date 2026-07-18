@@ -1,0 +1,7 @@
+[
+  "user_total_orders",
+  "user_avg_days_between_orders",
+  "user_reorder_ratio",
+  "product_reorder_rate",
+  "avg_add_to_cart_position"
+]

@@ -1,0 +1,7 @@
+﻿Dac trung,Viet tat,Tuong quan,Quyet dinh,Ly do
+user_total_orders,usr_total_orders,0.2239,Giu,"Tuong quan o muc hop ly, giu theo ly do nghiep vu da neu o Bang 12 bao cao"
+user_avg_days_between_orders,usr_avg_days,-0.1628,Giu,"Tuong quan o muc hop ly, giu theo ly do nghiep vu da neu o Bang 12 bao cao"
+user_reorder_ratio,usr_reorder_ratio,0.3423,Giu,"Tuong quan o muc hop ly, giu theo ly do nghiep vu da neu o Bang 12 bao cao"
+product_reorder_rate,prod_reorder_rate,0.304,Giu,"Tuong quan o muc hop ly, giu theo ly do nghiep vu da neu o Bang 12 bao cao"
+avg_add_to_cart_position,avg_cart_pos,-0.1883,Giu,"Tuong quan o muc hop ly, giu theo ly do nghiep vu da neu o Bang 12 bao cao"
+user_product_times_bought,usr_prod_bought,0.4337,LOAI — Data Leakage,"Trung dinh nghia nhan: match_rate = 100.00% — do lai chinh nhan can du doan, khong phai tin hieu du bao doc lap"
